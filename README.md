@@ -1,1 +1,1 @@
-![alt text](correlation_plot.pdf)
+![scatter](correlation_plot.pdf)
